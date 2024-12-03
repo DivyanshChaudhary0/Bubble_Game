@@ -56,7 +56,7 @@ body .parent .bubble-container .bubble {
   justify-content: center;
   cursor: pointer;
   color: white;
-  font-size: 30px;
+  font-size: 25px;
 }
 body .parent .bubble-container .bubble:hover {
   background-color: black;
