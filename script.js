@@ -6,7 +6,7 @@ let game_over = document.querySelector(".game-over");
 let restart_game = document.querySelector(".game-over button");
 let parent = document.querySelector(".parent");
 
-for (let i = 1; i <= 78; i++) {
+for (let i = 1; i <= 84; i++) {
     let bubble = document.createElement("div");
     bubble.classList.add("bubble");
     bubble_container.appendChild(bubble);
