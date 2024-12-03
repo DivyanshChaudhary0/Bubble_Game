@@ -43,8 +43,8 @@ body .parent .bubble-container {
   overflow: hidden;
 }
 body .parent .bubble-container .bubble {
-  width: 80px;
-  height: 80px;
+  width: 50px;
+  height: 50px;
   background-color: rgb(46, 44, 44);
   border-radius: 50%;
   display: flex;
